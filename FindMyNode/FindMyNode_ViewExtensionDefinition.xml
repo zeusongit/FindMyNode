@@ -1,0 +1,4 @@
+﻿<ViewExtensionDefinition>
+  <AssemblyPath>..\bin\FindMyNode.dll</AssemblyPath>
+  <TypeName>FindMyNode.FindMyNodeViewExtension</TypeName>
+</ViewExtensionDefinition>
